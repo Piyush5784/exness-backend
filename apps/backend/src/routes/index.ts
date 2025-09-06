@@ -3,7 +3,6 @@ import authRoutes, { secret } from "./authRoutes";
 import tradeRoutes from "./tradeRoutes";
 import balancesRoutes from "./balancesRoutes";
 import jwt, { JwtPayload } from "jsonwebtoken";
-import { prisma } from "../db";
 import axios from "axios";
 import { RedisManager } from "../classes/RedisManager";
 

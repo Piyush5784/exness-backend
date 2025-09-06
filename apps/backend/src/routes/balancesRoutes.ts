@@ -1,6 +1,5 @@
 import { Router } from "express";
 import { RedisManager } from "../classes/RedisManager";
-import { prisma } from "../db";
 
 const router = Router();
 

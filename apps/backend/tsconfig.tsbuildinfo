@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/classes/RedisManager.ts","./src/db/index.ts","./src/routes/authRoutes.ts","./src/routes/balancesRoutes.ts","./src/routes/index.ts","./src/routes/tradeRoutes.ts","./src/tests/index.test.ts"],"version":"5.9.2"}
+{"root":["./src/index.ts","./src/classes/RedisManager.ts","./src/routes/authRoutes.ts","./src/routes/balancesRoutes.ts","./src/routes/index.ts","./src/routes/tradeRoutes.ts","./src/tests/index.test.ts"],"version":"5.9.2"}

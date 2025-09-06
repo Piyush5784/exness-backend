@@ -1,6 +1,5 @@
 import { Request, Router, Response } from "express";
 import { RedisManager } from "../classes/RedisManager";
-import { prisma } from "../db";
 import * as z from "zod";
 const router = Router();
 
